@@ -47,7 +47,7 @@ Build a Blog System using Django with cloud synchronization for Web Development.
 3. Build a Fitness Tracker using TensorFlow with data visualization for Machine Learning.
 
 Happy coding! 💻
-```
+```markdown
 
 ## Functions
 
